@@ -52,7 +52,7 @@ coverage.xml
 *.pot
 
 #Jetbrains Stuff
-.idea/
+.idea/*
 
 # Django stuff:
 *.log
