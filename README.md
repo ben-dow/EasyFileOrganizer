@@ -1,9 +1,9 @@
 # EasyFileOrganizer
-A small python script to move files from a device such as a Camera, to another directory, while accounting for the potential for some files to already have been moved and for a certain orginization scheme to be in place. (Such as by date taken, for photos)
+A small, standalone python script that easily moves files from one directory to another and organizes them into folders by date. Great for moving pictures or videos off of cameras and into a common directory.
 
+## To Use
 
-# To Use
-
-Download the python file EasyFileOrganizer.py and run using python3. Follow console instructions and you should be allset.
+1) Download the Repo
+2) Run EasyFileOrganizer.py and follow the instructions
 
 Currently only tested on Windows 10
