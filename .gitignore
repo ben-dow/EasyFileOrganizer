@@ -1,6 +1,7 @@
 #Testing Directory
 test-directories/
-
+TestDirectory/
+TestDirectory/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
